@@ -3,23 +3,28 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-07 12:29:2
-Modified: 	2019-04-07 12:31:48
+Modified: 	2019-04-08 14:42:25
 -----
 Copyright (c) 2019 shumez
 -->
 
 # zho
 
-## Contents
+## Pīnyīn
 
-1. [...](#)
-    1. [...](#)
+### Sìshēng
 
-
-## 
-
-![][x+\frac{1}{x}=1]
-
+|   | 1 | 2 | 3 | 4 |
+|:-:|:-:|:-:|:-:|:-:|
+|   | 平 | 上 | 去 | 入 |
+|   | píng | shǎng | qù | rù |
+|   | – | / | v | \ |
+| a | ā | á | ǎ | à |
+| e | ē | é | ě | è |
+| i | ī | í | ǐ | ì |
+| o | ō | ó | ǒ | ò |
+| u | ū | ú | ǔ | ù |
+| ü | ǖ | ǘ | ǚ | ǜ |
 
 
 
