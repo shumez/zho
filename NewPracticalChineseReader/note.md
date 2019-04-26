@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/NewPracticalChineseReader
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-19 13:41:1
-Modified: 	2019-04-26 14:37:52
+Modified: 	2019-04-26 16:24:2
 -----
 Copyright (c) 2019 shumez
 -->
@@ -156,6 +156,40 @@ Copyright (c) 2019 shumez
 | 她忙 `Tō máng`                         | 她忙吗? `Tō máng ma`                         |
 | 你要咖啡 `Nǐ yào hōfēi`                 | 你要咖啡吗? `Nǐ yào hōfēi ma`                |
 
+
+## 03. 
+
+她是哪国人 Tā shì nǎ guó rén
+
+> 力波、那 是 谁？  
+> `Lìbō, nà shì shéi?`
+
+> 那 是 我们 老师。  
+> `Nà shì wǒnen lǎoshī`  
+
+> 她 是 哪 国人？  
+> `Tā shì nǎ guó rén?`
+
+> 她 是 中国 人。我们 老师 都 是 中国 人。  
+> `Tā shì Zhōgguó rén. Wǒmen lǎshī dōu shì Zhōngguó rén.`
+
+生词
+
+|       |           |   |                   |
+|-------|-----------|----|------------------|
+| 她    | `tā`      | Pr | she; her         |
+| 是    | `shì`     | V  | to be            |
+| 哪    | `nǎ`      | QPr| which            |
+| 国    | `guó`     | N  | country, nation  |
+| 人    | `rén`     | N  | people, person   |
+| 那    | `nà`      | Pr | that             |
+| 谁    | `shéi`    | QPr| who; whom        |
+| 老师  | `lǎoshǐ`  | N  | teacher          |
+| 都    | `dōu`     | Adv| both; all        |
+| 中国  | `Zhōngguó`| PN | China            |
+
+
+## 
 
 <!-- [x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?x+\frac{1}{x}=1 -->
 
