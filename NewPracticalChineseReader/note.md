@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/NewPracticalChineseReader
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-19 13:41:1
-Modified: 	2019-04-19 16:06:29
+Modified: 	2019-04-26 14:37:52
 -----
 Copyright (c) 2019 shumez
 -->
@@ -20,8 +20,12 @@ Copyright (c) 2019 shumez
 > 你好  
 > `Nǐ hǎo`
 
-* 你 `nǐ` : you
-* 好 `hǎo` : good; well; fine
+##### 生词
+
+|       |       |       |                   |
+|-------|-------|-------|-------------------|
+| 你    | `nǐ`  | Pr    | you               |
+| 好    | `hǎo` | A     | good; well; fine  |
 
 
 > 你好吗?  
@@ -33,11 +37,15 @@ Copyright (c) 2019 shumez
 > 也很好  
 > `Yě hěn hǎo`
 
-* 吗 `ma` (QPt) : interogative particle for question 
-* 我 `wǒ` (Pr) : I; me
-* 很 `hěn` (Adv) : very
-* 呢 `ne` (MdPt) : modal particle used for elliptical questions
-* 也 `yě` (Adv) : too; also
+##### 生词
+
+|       |       |       |               |
+|-------|-------|-------|               |
+| 吗    | `ma`  | QPt   | interogative particle for question |
+| 我    | `wǒ`  | Pr    | I; me          |
+| 很    | `hěn` | Adv   | very           |
+| 呢    | `ne`  | MdPt  | modal particle used for elliptical questions |
+| 也    | `yě`  | Adv   | too; also      |
 
 
 ###### Notes
@@ -68,6 +76,8 @@ Copyright (c) 2019 shumez
 
 ## 02. 
 
+###### 一
+
 > 陆雨平、你好吗?  
 > `Lù Yǔpíng, nǐ hǎo ma`  
 
@@ -83,19 +93,24 @@ Copyright (c) 2019 shumez
 > 他　很　忙。  
 > `Tā hěn máng.`
 
-* 忙    `máng`  (A):    busy
-* 吗    `ma`    (QPt)
-* 爸爸  `bàba`  (N):    dad
-* 妈妈  `māma`  (N):    mom
-* 他们  `Tāmen` (Pr):   they; them
-    * 他    `Tā`    (Pr):   he; him
-    * 们    `men`   (Suf):  denote plural (used after 我,  你, 他)
-* 都    `dāu`   (Adv):  both; all
-* 不    `bù`    (Adv):  not; no
-* 男    `nán`   (A):    male
-* 朋友  `péngyou`　(N): friend
-* 呢    `ne`    (MdPt): modal particle used for elliptical questions
+##### 生词
 
+|       |           |       |               |
+|-------|-----------|-------|---------------|
+| 忙    | `máng`    | A     | busy          |
+| 吗    | `ma`      | QPt   |               |
+| 爸爸  | `bàba`    | N     | dad           |
+| 妈妈  | `māma`    | N     | mom           |
+| 他们  | `Tāmen`   | Pr    | they; them    |
+| 他    | `Tā`      | Pr    | he; him       |
+| 们    | `men`     | Suf   | denote plural (used after 我,  你, 他) |
+| 都    | `dāu`     | Adv   | both; all     |
+| 不    | `bù`      | Adv   | not; no       |
+| 男    | `nán`     | A     | male          |
+| 朋友  | `péngyou` | N     | friend        |
+| 呢    | `ne`      | MdPt  | modal particle used for elliptical questions |
+
+###### 二
 
 > 哥哥、你　要　咖啡　吗？  
 > `Gēge, nǐ yào kāfēi ma?`
@@ -109,13 +124,37 @@ Copyright (c) 2019 shumez
 > 好、我们　都喝　咖啡。  
 > `Hǎo, wǒmen dōu hē kāfēi.`
 
-* 哥哥  `gēge`  (N):    elder brother
-* 要    `yào`   (V):    to want
-* 咖啡  `kāfēi` (N)
-* 弟弟  `dìdi`  (N):    younger brother
-* 我们  `wǒmen` (Pr):   we; us
-* 喝    `hē`    (PN):   to drink
-* 丁    `Dīng`  (PN):   surname
+###### 生词
+
+|       |           |       |                |
+|------|-----------|-------|-----------------|
+| 哥哥  | `gēge`    | N     | elder brother
+| 要    | `yào`     | V     | to want
+| 咖啡  | `kāfēi`   | N     |   
+| 弟弟  | `dìdi`    | N     | younger brother
+| 我们  | `wǒmen`   | Pr    | we; us
+| 喝    | `hē`      | PN    | to drink
+| 丁    | `Dīng`    | PN    | surname
+
+###### 语法
+
+形容词谓语句
+
+| subject       | predicate             |
+|---------------|-----------------------|
+| 你 `Nǐ`       | 好 `hǎo`               |
+| 他 `T¨ā`       | 很 忙 `hěn máng`       |
+| 我 `Wǒ`       | 不 忙 `bù máng`        |
+| 他 们 `Tāmen` | 都 很 好 `dōu hěn hǎo`  |
+
+用吗的是非词句
+
+| statement                             | question                                     |
+|---------------------------------------|----------------------------------------------|
+| 你好 `Nǐ hǎo`                          | 你好吗? `Nǐ hǎo ma`                          |
+| 他爸爸、妈妈都好 `Tā bàba māma dōu hǎo`  | 他爸爸、妈妈都好吗? `Tā bàba māma dōu hǎo ma`  |
+| 她忙 `Tō máng`                         | 她忙吗? `Tō máng ma`                         |
+| 你要咖啡 `Nǐ yào hōfēi`                 | 你要咖啡吗? `Nǐ yào hōfēi ma`                |
 
 
 <!-- [x+\frac{1}{x}=1]: https://latex.codecogs.com/gif.latex?x+\frac{1}{x}=1 -->
