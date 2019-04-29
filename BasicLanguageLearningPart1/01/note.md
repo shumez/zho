@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/01
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-29 17:23:3
-Modified: 	2019-04-29 17:44:37
+Modified: 	2019-04-29 17:44:56
 -----
 Copyright (c) 2019 shumez
 -->
@@ -16,7 +16,12 @@ Copyright (c) 2019 shumez
     [](#) -->
 
 
+## 01.01.  拼音字母 Pīnyīnzìmǔ 
 
+**Terms**
+
+* 普通話 Pǔtǒnghuà
+* 汉语拼音 Hànyǔpīnyīn
 
 
 
