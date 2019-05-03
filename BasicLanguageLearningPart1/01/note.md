@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/01
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-29 17:23:3
-Modified: 	2019-05-03 14:38:41
+Modified: 	2019-05-03 15:47:59
 -----
 Copyright (c) 2019 shumez
 -->
@@ -46,6 +46,26 @@ Copyright (c) 2019 shumez
 [![][shengmu_02]][shengmu_02]
 
 
+## 01.05. 韵毋表
+
+* 単𩐳毋: 音節が1つの母音 e.g., `a`, `o`, `e`, `i`, `u`, `ü`
+* 複𩐳母: 音節が2つ以上の母音 e.g., `an`, `ang`, `ie`, `ei`, `uen`, `iong`
+
+発音
+
+* `an`
+* `ang`
+* `e` 
+* `eng`
+* `ing`
+* `ü`
+* `uang`
+* `ueng`
+
+[![][yunmu_01]][yunmu_01]
+
+[![][yunmu_02]][yunmu_02]
+
 ##
 
 <!-- ref -->
@@ -53,6 +73,9 @@ Copyright (c) 2019 shumez
 <!-- fig -->
 [shengmu_01]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/shengmu_01.jpg
 [shengmu_02]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/shengmu_02.jpg
+[yunmu_01]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/yunmu_01.jpg
+[yunmu_02]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/yunmu_02.jpg
+
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
 </style> -->
