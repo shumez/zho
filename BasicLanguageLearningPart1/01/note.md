@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/01
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-29 17:23:3
-Modified: 	2019-05-03 15:47:59
+Modified: 	2019-05-03 16:24:5
 -----
 Copyright (c) 2019 shumez
 -->
@@ -46,9 +46,9 @@ Copyright (c) 2019 shumez
 [![][shengmu_02]][shengmu_02]
 
 
-## 01.05. 韵毋表
+## 01.05. 韵母表
 
-* 単𩐳毋: 音節が1つの母音 e.g., `a`, `o`, `e`, `i`, `u`, `ü`
+* 単𩐳母: 音節が1つの母音 e.g., `a`, `o`, `e`, `i`, `u`, `ü`
 * 複𩐳母: 音節が2つ以上の母音 e.g., `an`, `ang`, `ie`, `ei`, `uen`, `iong`
 
 発音
@@ -66,6 +66,15 @@ Copyright (c) 2019 shumez
 
 [![][yunmu_02]][yunmu_02]
 
+
+## 01.06. 普通話 `Pǔtōnghuà`
+
+
+[![][putonghua_01]][putonghua_01]
+[![][putonghua_02]][putonghua_02]
+
+
+
 ##
 
 <!-- ref -->
@@ -75,6 +84,8 @@ Copyright (c) 2019 shumez
 [shengmu_02]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/shengmu_02.jpg
 [yunmu_01]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/yunmu_01.jpg
 [yunmu_02]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/yunmu_02.jpg
+[putonghua_01]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/putonghua_01.jpg
+[putonghua_02]: https://raw.githubusercontent.com/shumez/zho/master/BasicLanguageLearningPart1/01/fig/putonghua_02.jpg
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
