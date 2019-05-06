@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/01
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-29 17:23:3
-Modified: 	2019-05-03 16:24:5
+Modified: 	2019-05-06 16:46:28
 -----
 Copyright (c) 2019 shumez
 -->
@@ -74,6 +74,13 @@ Copyright (c) 2019 shumez
 [![][putonghua_02]][putonghua_02]
 
 
+## 01.07. Mandarin
+
+大人 `dàrén` (閣下) &rarr; 满大人 `mǎndàrén` (満州族の高官)
+
+台湾, 香港: 国语 `guóyǔ` 
+シンガポール, 東南アジア: 华语 `huáyǔ` (華人の言語)
+中国の本土: 中文 `zhōngwén` / 汉语 `hányǔ` / 普通话 `pútōnghuà`
 
 ##
 
