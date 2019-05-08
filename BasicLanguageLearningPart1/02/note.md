@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-05-06 17:51:30
+Modified: 	2019-05-08 11:41:11
 -----
 Copyright (c) 2019 shumez
 -->
@@ -29,6 +29,8 @@ Copyright (c) 2019 shumez
 > 明天见 `míng tiān jiàn` (また明日)  
 > 再见 `zài jiàn` (さようなら)
 
+
+
 |               |       |               |
 |---------------|-------|---------------|
 | `nǐ`          | 你    | あなた        　|
@@ -42,7 +44,37 @@ Copyright (c) 2019 shumez
 | `yī`          | 一    | 1              |
 
 
+声母
 
+* `b`
+* `p`
+* `m`
+* `f`
+
+韻母
+
+* `a`
+* `o`
+* `e`
+* `i`
+* `u`
+* `ü`
+
+隔音符号
+
+* 早安 `zǎo'ān` (おはよう)
+* 天安门 `tiān'ānmén` (天安門)
+* 公安局 `gōng'ānjú` (公安局)
+* 恋爱 `liàn'ài` (恋愛)
+* 天鹅 `tiān'é` (白鳥)
+* 木偶戏 `mù'ǒuxì` (人形劇)
+
+
+
+`f` + 
+
+* 法语 `Fǎyǔ` (フランス語)
+* 丈夫 `Zhàngfū` (夫)
 
 
 ##
