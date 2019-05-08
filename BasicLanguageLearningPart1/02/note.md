@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-05-08 11:41:11
+Modified: 	2019-05-08 13:59:30
 -----
 Copyright (c) 2019 shumez
 -->
@@ -62,12 +62,12 @@ Copyright (c) 2019 shumez
 
 隔音符号
 
-* 早安 `zǎo'ān` (おはよう)
-* 天安门 `tiān'ānmén` (天安門)
-* 公安局 `gōng'ānjú` (公安局)
-* 恋爱 `liàn'ài` (恋愛)
-* 天鹅 `tiān'é` (白鳥)
-* 木偶戏 `mù'ǒuxì` (人形劇)
+* 早安 `Zǎo'ān` (おはよう)
+* 天安门 `Tiān'ānmén` (天安門)
+* 公安局 `Gōng'ānjú` (公安局)
+* 恋爱 `Liàn'ài` (恋愛)
+* 天鹅 `Tiān'é` (白鳥)
+* 木偶戏 `Mù'ǒuxì` (人形劇)
 
 
 
