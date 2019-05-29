@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-05-27 19:28:52
+Modified: 	2019-05-29 11:49:55
 -----
 Copyright (c) 2019 shumez
 -->
@@ -13,6 +13,7 @@ Copyright (c) 2019 shumez
 ## ToC
 
 * [02.01. 你好 `nǐ hǎo`][0201]
+* [02.01-01 你叫什么名字 `Nǐ jiào shénme míngzì`][0201-01]
 
 
 ## 02.01. 你好 `nǐ hǎo`
@@ -79,6 +80,8 @@ Copyright (c) 2019 shumez
 | 法语	| `Fǎyǔ`		| フランス語
 | 丈夫	| `Zhàngfū`		| 夫
 
+### 02.01.09 
+
 1 + 1
 
 |	   |			   |			   |
@@ -125,8 +128,44 @@ Copyright (c) 2019 shumez
 | 希望	| `Xī wàng`		| 
 | 方向	| `Fāng xiàng`	|
 
+### 02.01.10
+
+> 辛苦了 `Xīn kǔ le` (お疲れさまでした)  
+> 没关系 `Méiguānxì` (大丈夫ですよ)  
+> 不辛苦 `Bù xīn kǔ` (ご心配なく)  
+
+> 下星期见 `Xià xīng qí jiàn` (来週また会いましょう)  
+
+> 下个月见 `Xià gè yuè jiàn` (来月また会いましょう)
+
+## 02.01-01 你叫什么名字 `Nǐ jiào shénme míngzì`
+
+### 02.01-01.01
+
+> 你好 `Nǐ hǎo` (こんにちは)  
+> 你贵姓 `Nǐ guìxìng` (名字は?)  
+> 我姓... `Wǒ xìng ...` (私の名前は...)  
+> 你叫什么名字 `Nǐ jiào shénme míngzì` (お名前はなんですか?)  
+> 我叫... `Wǒ jiào ...` (私の名前は...)
+
+### 02.01-01.02 
+
+|	   |		   		   |				|
+|------|-------------------|----------------|
+| 贵姓	| `Guìxìng`			| (苗字, 姓)
+| 你好	| `Nǐhǎo`			| (こんにちは)
+| 叫    | `Jiào`    		| (叫ぶ)
+| 名字	| `Míngzì` 			|
+| 唱歌	| `Chànggē`			| (歌を歌う)
+| 谢谢	| `Xièxiè` 			|
+| 再见	| `Zàijiàn`			|
+| 学中文| `Xué Zhōngwén`	| (中国語を学ぶ)
+
+
+
 ##
 [0201]: #0201_ni_hao
+[0201-01]: #0201-01_ni_jiao_shenme_mingzi
 
 <!-- ref -->
 
