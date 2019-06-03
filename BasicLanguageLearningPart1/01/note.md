@@ -3,14 +3,14 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/01
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-04-29 17:23:3
-Modified: 	2019-05-29 15:06:12
+Modified: 	2019-06-03 17:07:30
 -----
 Copyright (c) 2019 shumez
 -->
 
 # 01. Pronuciation
 
-## ToC
+## Contents
 
 * [01.01. 拼音字母 Pīnyīnzìmǔ][0101]
 * [01.02. 拼音字母 Pīnyīnzìmǔ][0102]
@@ -20,6 +20,7 @@ Copyright (c) 2019 shumez
 * [01.06. 普通話 Pǔtōnghuà][0106]
 * [01.07. Mandarin][0107]
 
+## Terminology
 
 ## 01.01. 拼音字母 *Pīnyīnzìmǔ*
 
