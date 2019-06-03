@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-03 17:33:47
+Modified: 	2019-06-03 17:57:0
 -----
 Copyright (c) 2019 shumez
 -->
@@ -195,11 +195,25 @@ Copyright (c) 2019 shumez
 
 ### 02.01-01.01
 
-> 你好 *Nǐ hǎo* (こんにちは)  
-> 你贵姓 *Nǐ guìxìng* (名字は?)  
-> 我姓... *Wǒ xìng ...* (私の名前は...)  
-> 你叫什么名字 *Nǐ jiào shénme míngzì* (お名前はなんですか?)  
-> 我叫... *Wǒ jiào ...* (私の名前は...)
+> 你好  
+> *Nǐ hǎo*  
+> (こんにちは)  
+
+> 你贵姓  
+> *Nǐ guìxìng*  
+> (名字は?)  
+
+> 我姓...  
+> *Wǒ xìng ...*  
+> (私の名前は...)  
+
+> 你叫什么名字  
+> *Nǐ jiào shénme míngzì*  
+> (お名前はなんですか?)  
+
+> 我叫...  
+> *Wǒ jiào ...*  
+> (私の名前は...)
 
 ### 02.01-01.02 
 
