@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-03 17:59:16
+Modified: 	2019-06-03 18:00:19
 -----
 Copyright (c) 2019 shumez
 -->
@@ -196,13 +196,25 @@ Copyright (c) 2019 shumez
 
 ### 02.01.10
 
-> 辛苦了 *Xīn kǔ le* (お疲れさまでした)  
-> 没关系 *Méiguānxì* (大丈夫ですよ)  
-> 不辛苦 *Bù xīn kǔ* (ご心配なく)  
+> 辛苦了  
+> *Xīn kǔ le*  
+> (お疲れさまでした)  
 
-> 下星期见 *Xià xīng qí jiàn* (来週また会いましょう)  
+> 没关系  
+> *Méiguānxì*  
+> (大丈夫ですよ)  
 
-> 下个月见 *Xià gè yuè jiàn* (来月また会いましょう)
+> 不辛苦  
+> *Bù xīn kǔ*  
+> (ご心配なく)  
+
+> 下星期见  
+> *Xià xīng qí jiàn*  
+> (来週また会いましょう)  
+
+> 下个月见  
+> *Xià gè yuè jiàn*  
+> (来月また会いましょう)
 
 ## 02.01-01 你叫什么名字 *Nǐ jiào shénme míngzì*
 
