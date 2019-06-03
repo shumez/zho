@@ -3,18 +3,19 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-05-29 14:55:26
+Modified: 	2019-06-03 17:06:13
 -----
 Copyright (c) 2019 shumez
 -->
 
 # 02. Pronuciation Practice
 
-## ToC
+## Contents
 
 * [02.01. 你好 *Nǐ hǎo*][0201]
 * [02.01-01 你叫什么名字 *Nǐ jiào shénme míngzì*][0201-01]
 
+## Terminology
 
 ## 02.01. 你好 *Nǐ hǎo*
 
@@ -172,62 +173,62 @@ Copyright (c) 2019 shumez
 <!-- fig -->
 
 <!-- term -->
-[你]: . "nǐ あなた"
-[好]: . "hāo 良い"
-[早上]: . "zǎo shang 朝"
-[晚上]: . "wǎn shang 夜"
-[晚安]: . "wǎn'ān おやすみなさい"
-[明天]: . "míng tiān 明日"
-[见]: . "jiàn 会う"
-[再见]: . "zài jiàn さようなら"
-[一]: . "yī 1"
+[你]: #terminology "nǐ あなた"
+[好]: #terminology "hāo 良い"
+[早上]: #terminology "zǎo shang 朝"
+[晚上]: #terminology "wǎn shang 夜"
+[晚安]: #terminology "wǎn'ān おやすみなさい"
+[明天]: #terminology "míng tiān 明日"
+[见]: #terminology "jiàn 会う"
+[再见]: #terminology "zài jiàn さようなら"
+[一]: #terminology "yī 1"
 
-[早安]: . "Zǎo'ān おはよう"
-[天安门]: . "Tiān'ānmén 天安門"
-[公安局]: . "Gōng'ānjú 公安局"
-[恋爱]: . "Liàn'ài 恋愛"
-[天鹅]: . "Tiān'é 白鳥"
-[木偶戏]: . "Mù'ǒuxì 人形劇"
+[早安]: #terminology "Zǎo'ān おはよう"
+[天安门]: #terminology "Tiān'ānmén 天安門"
+[公安局]: #terminology "Gōng'ānjú 公安局"
+[恋爱]: #terminology "Liàn'ài 恋愛"
+[天鹅]: #terminology "Tiān'é 白鳥"
+[木偶戏]: #terminology "Mù'ǒuxì 人形劇"
 
-[法语]: . "Fǎyǔ フランス語"
-[丈夫]: . "Zhàngfū 夫"
+[法语]: #terminology "Fǎyǔ フランス語"
+[丈夫]: #terminology "Zhàngfū 夫"
 
-[餐厅]: . "Cān tīng レストラン"
-[东京]: . "Dōngjīng 東京"
-[公司]: . "Gōng sī 会社"
-[关心]: . "Guān xīn 関心"
-[今天]: . "Jīn tiān 今日"
-[出差]: . "Chū chāi 出張"
+[餐厅]: #terminology "Cān tīng レストラン"
+[东京]: #terminology "Dōngjīng 東京"
+[公司]: #terminology "Gōng sī 会社"
+[关心]: #terminology "Guān xīn 関心"
+[今天]: #terminology "Jīn tiān 今日"
+[出差]: #terminology "Chū chāi 出張"
 
-[英国]: . "Yīng guó"
-[生活]: . "Shēng huó"
-[空调]: . "Kòng tiáo 空調"
-[刚才]: . "Gāng cái さっき, just now"
-[阿姨]: . "Ā yí おばさん, aunt"
-[积极]: . "Jījí 積極的, positive"
+[英国]: #terminology "Yīng guó"
+[生活]: #terminology "Shēng huó"
+[空调]: #terminology "Kòng tiáo 空調"
+[刚才]: #terminology "Gāng cái さっき, just now"
+[阿姨]: #terminology "Ā yí おばさん, aunt"
+[积极]: #terminology "Jījí 積極的, positive"
 
-[修理]: . "Xiū lǐ"
-[身体]: . "Shēn tǐ"
-[商品]: . "Shāngpǐn"
-[英语]: . "Yīng yǔ"
-[风景]: . "Fēng jǐng 風景"
-[机场]: . "Jī chǎng 空港, airport"
+[修理]: #terminology "Xiū lǐ"
+[身体]: #terminology "Shēn tǐ"
+[商品]: #terminology "Shāngpǐn"
+[英语]: #terminology "Yīng yǔ"
+[风景]: #terminology "Fēng jǐng 風景"
+[机场]: #terminology "Jī chǎng 空港, airport"
 
-[兄弟]: . "Xiōng dì"
-[空气]: . "Kōng qì"
-[医院]: . "Yī yuàn 病院"
-[鸡蛋]: . "Jī dàn 卵, egg"
-[希望]: . "Xī wàng"
-[方向]: . "Fāng xiàng"
+[兄弟]: #terminology "Xiōng dì"
+[空气]: #terminology "Kōng qì"
+[医院]: #terminology "Yī yuàn 病院"
+[鸡蛋]: #terminology "Jī dàn 卵, egg"
+[希望]: #terminology "Xī wàng"
+[方向]: #terminology "Fāng xiàng"
 
-[贵姓]: . "Guìxìng 苗字, 姓"
-[你好]: . "Nǐhǎo こんにちは"
-[叫]: . "Jiào 叫ぶ"
-[名字]: . "Míngzì"
-[唱歌]: . "Chànggē 歌を歌う"
-[谢谢]: . "Xièxiè"
-[再见]: . "Zàijiàn"
-[学中文]: . "Xué Zhōngwén 中国語を学ぶ"
+[贵姓]: #terminology "Guìxìng 苗字, 姓"
+[你好]: #terminology "Nǐhǎo こんにちは"
+[叫]: #terminology "Jiào 叫ぶ"
+[名字]: #terminology "Míngzì"
+[唱歌]: #terminology "Chànggē 歌を歌う"
+[谢谢]: #terminology "Xièxiè"
+[再见]: #terminology "Zàijiàn"
+[学中文]: #terminology "Xué Zhōngwén 中国語を学ぶ"
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
