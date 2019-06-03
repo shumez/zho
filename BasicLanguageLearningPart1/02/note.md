@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-03 17:57:0
+Modified: 	2019-06-03 17:59:16
 -----
 Copyright (c) 2019 shumez
 -->
@@ -72,16 +72,29 @@ Copyright (c) 2019 shumez
 
 ## 02.01. 你好 *Nǐ hǎo*
 
-> 你好 *nǐ hǎo* (こんにちは)  
+> 你好  
+> *nǐ hǎo*  
+> (こんにちは)  
 
-> 早上好 (早安) *zǎo shang hǎo* (*zǎo ān*)　(お早うございます)  
+> 早上好 (早安)  
+> *zǎo shang hǎo* (*zǎo ān*)  
+> (お早うございます)  
 
-> 晚上好 *wǎn shang hǎo* (こんばんは)  
+> 晚上好  
+> *wǎn shang hǎo*  
+> (こんばんは)  
 
-> 晚安 *wǎn ān* (おやすみなさい)  
+> 晚安  
+> *wǎn ān*  
+> (おやすみなさい)  
 
-> 明天见 *míng tiān jiàn* (また明日)  
-> 再见 *zài jiàn* (さようなら)
+> 明天见  
+> *míng tiān jiàn*  
+> (また明日)  
+
+> 再见  
+> *zài jiàn*  
+> (さようなら)
 
 
 | 中文	   | 拼音		   | 日文			|
