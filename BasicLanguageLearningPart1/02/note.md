@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-05 11:56:3
+Modified: 	2019-06-05 14:12:30
 -----
 Copyright (c) 2019 shumez
 -->
@@ -315,7 +315,15 @@ Copyright (c) 2019 shumez
 ### 02.02.09.
 
 2 + 1
-时间 *Shíjiān* 時間
+
+| 中文		| 拼音			| 日文		|
+|----------|---------------|----------|
+| [时间]	| *Shíjiān*		| 時間
+| [旁边]	| *Pángbiān*	| next to
+| [结婚]	| *Jiéhūn*	|
+| []	| **	|
+| []	| **	|
+
 
 
 
