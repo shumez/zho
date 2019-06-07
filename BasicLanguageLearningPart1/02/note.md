@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-05 14:25:23
+Modified: 	2019-06-07 16:19:46
 -----
 Copyright (c) 2019 shumez
 -->
@@ -12,6 +12,7 @@ Copyright (c) 2019 shumez
 
 ## Contents
 
+* [Terminology]
 * [02.01. 你好 *Nǐ hǎo*][0201]
 	* [02.01.01.][020101]
 	* [02.01.03.][020103]
@@ -26,6 +27,8 @@ Copyright (c) 2019 shumez
 * [02.02. 请进 *Qǐng jìn*][0202]
 	* [02.02.01.][020201]
 	* [02.02.03.][020203]
+	* [02.02.09.][020209]
+	* [02.02.10.][020210]
 
 ## Terminology
 
@@ -88,6 +91,30 @@ Copyright (c) 2019 shumez
 | [茶]		| *Chá*				| 
 | [水]		| *Shuǐ*			| 
 | [二]		| *Èr*				|
+| [时间]	| *Shíjiān*		| 時間
+| [旁边]	| *Pángbiān*	| next to
+| [结婚]	| *Jiéhūn*		|
+| [传真]	| *Chuánzhēn*	| fax
+| [钱包]	| *Qiánbāo*		| 財布
+| [农村]	| *Nóngcūn*		| 農村
+| [银行]	| *Yínháng*		| 銀行
+| [厨房]	| *Chúfáng*		| 台所
+| [德国]	| *Déguó*		| ドイツ
+| [儿童]	| *Értóng*		| 児童
+| [流行]	| *Liúxíng*		| popular
+| [同学]	| *Tóngxué*		| classmate
+| [牛奶]	| *Niúnǎi*		| 牛乳
+| [啤酒]	| *Píjiǔ*		| beer
+| [男女]	| *Nánnǚ*		| 
+| [韩语]	| *Hányǔ*		| 韓国語 cf. [汉语] *Hànyǔ*
+| [扶手]	| *Fúshǒu*		| 手すり
+| [糖果]	| *Tángguǒ*		| 飴 candy
+| [同事]	| *Tóngshì*		| 同僚
+| [学校]	| *Xuéxiào*		| 
+| [愉快]	| *Yúkuài*		| happy
+| [原谅]	| *Yuánliàng*	| 許す
+| [习惯]	| *Xíguàn*		| 習慣
+| [迟到]	| *Chídào*		| 遅刻
 
 
 ## 02.01. 你好 *Nǐ hǎo*
@@ -329,14 +356,76 @@ Copyright (c) 2019 shumez
 |----------|---------------|----------|
 | [时间]	| *Shíjiān*		| 時間
 | [旁边]	| *Pángbiān*	| next to
-| [结婚]	| *Jiéhūn*	|
-| []	| **	|
-| []	| **	|
+| [结婚]	| *Jiéhūn*		|
+| [传真]	| *Chuánzhēn*	| fax
+| [钱包]	| *Qiánbāo*		| 財布
+| [农村]	| *Nóngcūn*		| 農村
 
+2 + 2
+
+| 中文		| 拼音			| 翻译		|
+|----------|---------------|----------|
+| [银行]	| *Yínháng*		| 銀行
+| [厨房]	| *Chúfáng*		| 台所
+| [德国]	| *Déguó*		| ドイツ
+| [儿童]	| *Értóng*		| 児童
+| [流行]	| *Liúxíng*		| popular
+| [同学]	| *Tóngxué*		| classmate
+
+2 + 3
+
+| 中文		| 拼音			| 翻译		|
+|----------|---------------|----------|
+| [牛奶]	| *Niúnǎi*		| 牛乳
+| [啤酒]	| *Píjiǔ*		| beer
+| [男女]	| *Nánnǚ*		| 
+| [韩语]	| *Hányǔ*		| 韓国語 cf. [汉语] *Hànyǔ*
+| [扶手]	| *Fúshǒu*		| 手すり
+| [糖果]	| *Tángguǒ*		| 飴 candy
+
+2 + 4
+
+| 中文		| 拼音			| 翻译		|
+|----------|---------------|----------|
+| [同事]	| *Tóngshì*		| 同僚
+| [学校]	| *Xuéxiào*		| 
+| [愉快]	| *Yúkuài*		| happy
+| [原谅]	| *Yuánliàng*	| 許す
+| [习惯]	| *Xíguàn*		| 習慣
+| [迟到]	| *Chídào*		| 遅刻
+
+
+### 02.02.10.
+
+> 你(们)累了吧  
+> Nǐ(men)  lèile ba  
+> 皆さん, 疲れたでしょう
+
+> 我们累了  
+> Wǒmen lèile  
+> 私達は疲れました  
+> 我有点儿累  
+> Wǒ yǒudiǎn er lèi  
+> 少し疲れました  
+> 我很累  
+> Wǒ hěn lèi   
+> とても疲れました  
+> 我不累  
+> Wǒ bù lèi
+
+> 那我们休息一下人、好不好  
+> Nà wǒmen xiūxí yīxià rén, hǎobù hǎo  
+> では, ちょっと休憩しませんか?
+
+> 好  
+> Hǎo  
+> はい、いいです
 
 
 
 ##
+<!-- toc -->
+[Terminology]: #terminology
 [0201]: #0201_ni_hao
 [020101]: #020101
 [020103]: #020103
@@ -351,6 +440,8 @@ Copyright (c) 2019 shumez
 [0202]: #0202_qing_jin
 [020201]: #020201
 [020203]: #020203
+[020209]: #020209
+[020210]: #020210
 
 
 <!-- ref -->
@@ -423,6 +514,35 @@ Copyright (c) 2019 shumez
 [茶]: #terminology "Chá"
 [水]: #terminology "Shuǐ"
 [二]: #terminology "Èr"
+
+[时间]: #terminology "Shíjiān 時間"
+[旁边]: #terminology "Pángbiān next to"
+[结婚]: #terminology "Jiéhūn"
+[传真]: #terminology "Chuánzhēn fax"
+[钱包]: #terminology "Qiánbāo 財布"
+[农村]: #terminology "Nóngcūn 農村"
+
+[银行]: #terminology "Yínháng 銀行"
+[厨房]: #terminology "Chúfáng 台所"
+[德国]: #terminology "Déguó ドイツ"
+[儿童]: #terminology "Értóng 児童"
+[流行]: #terminology "Liúxíng popular"
+[同学]: #terminology "Tóngxué classmate"
+
+[牛奶]: #terminology "Niúnǎi 牛乳"
+[啤酒]: #terminology "Píjiǔ beer"
+[男女]: #terminology "Nánnǚ"
+[韩语]: #terminology "Hányǔ 韓国語"
+[汉语]: #terminology "Hànyǔ"
+[扶手]: #terminology "Fúshǒu 手すり"
+[糖果]: #terminology "Tángguǒ 飴 candy"
+
+[同事]: #terminology "Tóngshì 同僚"
+[学校]: #terminology "Xuéxiào"
+[愉快]: #terminology "Yúkuài happy"
+[原谅]: #terminology "Yuánliàng 許す"
+[习惯]: #terminology "Xíguàn 習慣"
+[迟到]: #terminology "Chídào 遅刻"
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
