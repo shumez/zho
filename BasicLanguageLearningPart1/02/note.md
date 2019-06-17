@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-07 16:30:11
+Modified: 	2019-06-17 17:46:50
 -----
 Copyright (c) 2019 shumez
 -->
@@ -424,6 +424,24 @@ Copyright (c) 2019 shumez
 
 
 ## 02.02-01. 早安 Zǎo ān
+
+> 早上好  
+> Zǎoshang hǎo  
+> Good morning  
+
+> 早安  
+> Zǎo ān 
+
+> 你去哪人  
+> Nǐ qù nǎ rén 
+
+> 我去学校  
+> Wǒ qù xuéxiào  
+> I go to school
+
+
+
+
 
 
 ##
