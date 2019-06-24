@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-24 17:45:14
+Modified: 	2019-06-24 17:50:44
 -----
 Copyright (c) 2019 shumez
 -->
@@ -450,6 +450,13 @@ Copyright (c) 2019 shumez
 > I went to the cinema to watch a movie.
 
 
+### 02.02-01.02. 
+
+| 中文		| 拼音				| 翻译		|
+|----------|-------------------|----------|
+| [早上好]	| Zǎo shang hǎo		| Good morning
+| [电影院]	| Diàn yǐng yuàn	| 映画館
+| []
 
 
 ##
