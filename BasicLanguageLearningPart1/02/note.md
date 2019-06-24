@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-17 17:46:50
+Modified: 	2019-06-24 17:45:14
 -----
 Copyright (c) 2019 shumez
 -->
@@ -425,6 +425,8 @@ Copyright (c) 2019 shumez
 
 ## 02.02-01. 早安 Zǎo ān
 
+### 02.02-01.01. 
+
 > 早上好  
 > Zǎoshang hǎo  
 > Good morning  
@@ -439,7 +441,13 @@ Copyright (c) 2019 shumez
 > Wǒ qù xuéxiào  
 > I go to school
 
+> 你去哪里?  
+> Nǐ qù nǎ lǐ  
+> where are you going?
 
+> 我去电影院看电影  
+> Wǒ qù diàn yǐng yuàn kàn diàn yǐng  
+> I went to the cinema to watch a movie.
 
 
 
