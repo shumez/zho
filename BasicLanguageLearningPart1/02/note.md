@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-26 11:30:41
+Modified: 	2019-06-26 11:36:40
 -----
 Copyright (c) 2019 shumez
 -->
@@ -116,6 +116,17 @@ Copyright (c) 2019 shumez
 | [原谅]	| Yuánliàng 	| 許す
 | [习惯]	| Xíguàn 		| 習慣
 | [迟到]	| Chídào 		| 遅刻
+| [早上好]	| Zǎo shang hǎo		| Good morning
+| [电影院]	| Diàn yǐng yuàn	| 映画館
+| [去哪里]	| Qù nǎlǐ			| Where are you going?
+| [在公司]	| Zài gōngsī		| 会社にいる
+| [早安]	| Zǎo ān			| Good morning
+| [看电影]	| Kàn diànyǐng		| watch movie
+| [去哪儿]	| Qù nǎ'er			| どこへ行きますか
+| [明天见]	| Míngtiān jiàn		| see you tomorrow
+| [现在]	| Xiànzài			| 
+| [上网]	| Shàngwǎng			| Internet access
+| [干什么]	| Gànshénme			| 何をする？
 
 
 ## 02.01. 你好 Nǐ hǎo
@@ -588,6 +599,18 @@ Copyright (c) 2019 shumez
 [原谅]: #terminology "Yuánliàng 許す"
 [习惯]: #terminology "Xíguàn 習慣"
 [迟到]: #terminology "Chídào 遅刻"
+
+[早上好]: #terminology "Zǎo shang hǎo Good morning"
+[电影院]: #terminology "Diàn yǐng yuàn 映画館"
+[去哪里]: #terminology "Qù nǎlǐ Where are you going?"
+[在公司]: #terminology "Zài gōngsī 会社にいる"
+[早安]: #terminology "Zǎo ān Good morning"
+[看电影]: #terminology "Kàn diànyǐng watch movie"
+[去哪儿]: #terminology "Qù nǎ'er どこへ行きますか"
+[明天见]: #terminology "Míngtiān jiàn see you tomorrow"
+[现在]: #terminology "Xiànzài"
+[上网]: #terminology "Shàngwǎng Internet access"
+[干什么]: #terminology "Gànshénme 何をする？"
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
