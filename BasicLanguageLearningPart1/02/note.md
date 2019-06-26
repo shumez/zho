@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-26 11:36:40
+Modified: 	2019-06-26 11:48:48
 -----
 Copyright (c) 2019 shumez
 -->
@@ -30,6 +30,9 @@ Copyright (c) 2019 shumez
 	* [02.02.09.][020209]
 	* [02.02.10.][020210]
 * [02.02-01. 早安 Zǎo ān][0202-01]
+	* [02.02-01.01.][0202-0101]
+	* [02.02-01.02.][0202-0102]
+* [02.03. 对不起 Duìbùqǐ][0203]
 
 ## Terminology
 
@@ -479,6 +482,37 @@ Copyright (c) 2019 shumez
 | [干什么]	| Gànshénme			| 何をする？
 
 
+## 02.03. 对不起 Duì bù qǐ
+
+### 02.03.01. 
+
+> 对不起  
+> Duìbùqǐ  
+> I am sorry
+
+> 没关系  
+> Méiguānxì  
+> It's ok  
+
+> 真抱歉  
+> Zhēn bàoqiàn  
+> so sorry
+
+> 不要紧  
+> Bùyàojǐn  
+> Don't worry
+
+> 麻烦你了  
+> Máfan nǐle  
+> sorry to bother you
+
+> 不客气  
+> Bù kèqì  
+> You are welcome
+
+
+
+
 ##
 <!-- toc -->
 [Terminology]: #terminology
@@ -499,6 +533,9 @@ Copyright (c) 2019 shumez
 [020209]: #020209
 [020210]: #020210
 [0202-01]: #0202-01_zao_an
+[0202-0101]: #0202-0101
+[0202-0102]: #0202-0102
+[0203]: #0203_dui_bu_qi
 
 <!-- ref -->
 
