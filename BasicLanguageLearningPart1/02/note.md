@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-24 17:50:44
+Modified: 	2019-06-26 11:30:41
 -----
 Copyright (c) 2019 shumez
 -->
@@ -434,8 +434,9 @@ Copyright (c) 2019 shumez
 > 早安  
 > Zǎo ān 
 
-> 你去哪人  
-> Nǐ qù nǎ rén 
+> 你去哪儿  
+> Nǐ qù nǎ'er  
+> where are you going?
 
 > 我去学校  
 > Wǒ qù xuéxiào  
@@ -456,7 +457,15 @@ Copyright (c) 2019 shumez
 |----------|-------------------|----------|
 | [早上好]	| Zǎo shang hǎo		| Good morning
 | [电影院]	| Diàn yǐng yuàn	| 映画館
-| []
+| [去哪里]	| Qù nǎlǐ			| Where are you going?
+| [在公司]	| Zài gōngsī		| 会社にいる
+| [早安]	| Zǎo ān			| Good morning
+| [看电影]	| Kàn diànyǐng		| watch movie
+| [去哪儿]	| Qù nǎ'er			| どこへ行きますか
+| [明天见]	| Míngtiān jiàn		| see you tomorrow
+| [现在]	| Xiànzài			| 
+| [上网]	| Shàngwǎng			| Internet access
+| [干什么]	| Gànshénme			| 何をする？
 
 
 ##
