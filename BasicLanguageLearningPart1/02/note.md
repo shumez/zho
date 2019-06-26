@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-26 11:48:48
+Modified: 	2019-06-26 11:55:22
 -----
 Copyright (c) 2019 shumez
 -->
@@ -428,8 +428,8 @@ Copyright (c) 2019 shumez
 > 我不累  
 > Wǒ bù lèi
 
-> 那我们休息一下人、好不好  
-> Nà wǒmen xiūxí yīxià rén, hǎobù hǎo  
+> 那我们休息一下儿、好不好  
+> Nà wǒmen xiūxí yīxià er, hǎobù hǎo  
 > では, ちょっと休憩しませんか?
 
 > 好  
