@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-28 16:29:0
+Modified: 	2019-06-28 17:30:50
 -----
 Copyright (c) 2019 shumez
 -->
@@ -139,6 +139,30 @@ Copyright (c) 2019 shumez
 | [不要紧]	 | Bùyàojǐn	 | Don't worry
 | [不客气]	 | Bù kèqì	 | You are welcome
 | [三]		| Sān		| 
+| [每天]	 | Měitiān	 | 毎日
+| [买单]	 | Mǎidān	 | 勘定
+| [紧张]	 | Jǐnzhāng  | 緊張
+| [两千]	 | Liǎng qiān| 2000
+| [北京]	 | Běijīng	 | 
+| [老师]	 | Lǎoshī	 | teacher
+| [法国]	 | Fàguó	| France
+| [美国]	 | Měiguó	| United States
+| [可能]	 | Kěnéng	| 
+| [解决]	 | Jiějué	| 
+| [友情]	 | Yǒuqíng	| 
+| [网球]	 | Wǎngqiú	| tennis
+| [老板]	 | Lǎobǎn	| 社長
+| [几点]	 | Jǐ diǎn	| What time
+| [手表]	 | Shǒubiǎo	| 腕時計
+| [洗澡]	 | Xǐzǎo	| 風呂
+| [理解]	 | Lǐjiě	| 
+| [水果]	 | Shuǐguǒ	| fruit
+| [姐妹]	 | Jiěmèi	| 姉妹
+| [冷气]	 | Lěngqì	| Air conditioning
+| [领带]	 | Lǐngdài	| ネクタイ
+| [感动]	 | Gǎndòng	| 感動
+| [马上]	 | Mǎshàng	| immediately
+| [美丽]	 | Měilì	| beautiful
 
 
 ## 02.01. 你好 Nǐ hǎo
@@ -535,6 +559,51 @@ Copyright (c) 2019 shumez
 | [三]		| Sān		| 
 
 
+### 02.03.09.
+
+3 + 1
+
+| 中文		 | 拼音		 | 翻译		|
+|-----------|-----------|---------|
+| [每天]	 | Měitiān	 | 毎日
+| [买单]	 | Mǎidān	 | 勘定
+| [紧张]	 | Jǐnzhāng  | 緊張
+| [两千]	 | Liǎng qiān| 2000
+| [北京]	 | Běijīng	 | 
+| [老师]	 | Lǎoshī	 | teacher
+
+3 + 2
+
+| 中文		 | 拼音		 | 翻译		|
+|-----------|-----------|---------|
+| [法国]	 | Fàguó	| France
+| [美国]	 | Měiguó	| United States
+| [可能]	 | Kěnéng	| 
+| [解决]	 | Jiějué	| 
+| [友情]	 | Yǒuqíng	| 
+| [网球]	 | Wǎngqiú	| tennis
+
+3 + 3
+
+| 中文		 | 拼音		 | 翻译		|
+|-----------|-----------|---------|
+| [老板]	 | Lǎobǎn	| 社長
+| [几点]	 | Jǐ diǎn	| What time
+| [手表]	 | Shǒubiǎo	| 腕時計
+| [洗澡]	 | Xǐzǎo	| 風呂
+| [理解]	 | Lǐjiě	| 
+| [水果]	 | Shuǐguǒ	| fruit
+
+3 + 4
+
+| 中文		 | 拼音		 | 翻译		|
+|-----------|-----------|---------|
+| [姐妹]	 | Jiěmèi	| 姉妹
+| [冷气]	 | Lěngqì	| Air conditioning
+| [领带]	 | Lǐngdài	| ネクタイ
+| [感动]	 | Gǎndòng	| 感動
+| [马上]	 | Mǎshàng	| immediately
+| [美丽]	 | Měilì	| beautiful
 
 ##
 <!-- toc -->
@@ -681,6 +750,35 @@ Copyright (c) 2019 shumez
 [不要紧]: # "Bùyàojǐn Don't worry"
 [不客气]: # "Bù kèqì You are welcome"
 [三]: # "Sān"
+
+<!-- 020309 -->
+[每天]: # "Měitiān 毎日"
+[买单]: # "Mǎidān 勘定"
+[紧张]: # "Jǐnzhāng 緊張"
+[两千]: # "Liǎng qiān 2000"
+[北京]: # "Běijīng"
+[老师]: # "Lǎoshī teacher"
+
+[法国]: # "Fàguó France"
+[美国]: # "Měiguó United States"
+[可能]: # "Kěnéng"
+[解决]: # "Jiějué"
+[友情]: # "Yǒuqíng"
+[网球]: # "Wǎngqiú tennis"
+
+[老板]: #terminology "Lǎobǎn 社長"
+[几点]: #terminology "Jǐ diǎn What time"
+[手表]: #terminology "Shǒubiǎo 腕時計"
+[洗澡]: #terminology "Xǐzǎo 風呂"
+[理解]: #terminology "Lǐjiě"
+[水果]: #terminology "Shuǐguǒ fruit"
+
+[姐妹]: #terminology "Jiěmèi 姉妹"
+[冷气]: #terminology "Lěngqì Air conditioning"
+[领带]: #terminology "Lǐngdài ネクタイ"
+[感动]: #terminology "Gǎndòng 感動"
+[马上]: #terminology "Mǎshàng immediately"
+[美丽]: #terminology "Měilì beautiful"
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
