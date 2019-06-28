@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-28 17:30:50
+Modified: 	2019-06-28 17:37:50
 -----
 Copyright (c) 2019 shumez
 -->
@@ -604,6 +604,17 @@ Copyright (c) 2019 shumez
 | [感动]	 | Gǎndòng	| 感動
 | [马上]	 | Mǎshàng	| immediately
 | [美丽]	 | Měilì	| beautiful
+
+### 02.03.10.
+
+> 小姐, 买单  
+> Xiǎojiě, Mǎidān  
+> 勘定
+
+> 好. 请等一下儿  
+> Hǎo. Qǐng děng yīxià er. /   
+> はい. 
+
 
 ##
 <!-- toc -->
