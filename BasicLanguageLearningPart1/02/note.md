@@ -3,7 +3,7 @@ Filename: 	note.md
 Project: 	/Users/shume/Developer/zho/BasicLanguageLearningPart1/02
 Author: 	shumez <https://github.com/shumez>
 Created: 	2019-05-06 17:07:2
-Modified: 	2019-06-26 11:55:22
+Modified: 	2019-06-28 16:29:0
 -----
 Copyright (c) 2019 shumez
 -->
@@ -130,6 +130,15 @@ Copyright (c) 2019 shumez
 | [现在]	| Xiànzài			| 
 | [上网]	| Shàngwǎng			| Internet access
 | [干什么]	| Gànshénme			| 何をする？
+| [对]		| Duì		| 正しい
+| [对不起]	 | Duìbùqǐ	 | I'm sorry
+| [没]		| Méi		| ない
+| [没关系]	 | Méiguānxì | かまいません
+| [真]		| Zhēn		| 本当に
+| [抱歉]	 | Bàoqiàn	| sorry
+| [不要紧]	 | Bùyàojǐn	 | Don't worry
+| [不客气]	 | Bù kèqì	 | You are welcome
+| [三]		| Sān		| 
 
 
 ## 02.01. 你好 Nǐ hǎo
@@ -511,6 +520,20 @@ Copyright (c) 2019 shumez
 > You are welcome
 
 
+### 02.03.03. 
+
+| 中文		 | 拼音		 | 翻译		|
+|-----------|-----------|---------|
+| [对]		| Duì		| 正しい
+| [对不起]	 | Duìbùqǐ	 | I'm sorry
+| [没]		| Méi		| ない
+| [没关系]	 | Méiguānxì | かまいません
+| [真]		| Zhēn		| 本当に
+| [抱歉]	 | Bàoqiàn	| sorry
+| [不要紧]	 | Bùyàojǐn	 | Don't worry
+| [不客气]	 | Bù kèqì	 | You are welcome
+| [三]		| Sān		| 
+
 
 
 ##
@@ -648,6 +671,16 @@ Copyright (c) 2019 shumez
 [现在]: #terminology "Xiànzài"
 [上网]: #terminology "Shàngwǎng Internet access"
 [干什么]: #terminology "Gànshénme 何をする？"
+
+[对]: # "Duì 正しい"
+[对不起]: # "Duìbùqǐ I'm sorry"
+[没]: # "Méi ない"
+[没关系]: # "Méiguānxì かまいません"
+[真]: # "Zhēn 本当に"
+[抱歉]: # "Bàoqiàn sorry"
+[不要紧]: # "Bùyàojǐn Don't worry"
+[不客气]: # "Bù kèqì You are welcome"
+[三]: # "Sān"
 
 <!-- <style type="text/css">
 	img{width: 51%; float: right;}
